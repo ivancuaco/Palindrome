@@ -1,0 +1,7 @@
+// TODO: rename this file from '.txt' to '.js'
+function isPalindrome(str) {
+  // Your codes here.   
+}
+
+// Call the function and pass an argument.
+isPalindrome()
